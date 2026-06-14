@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Classic",
+  "description": "A beautifully polished Ludo board game featuring local pass-and-play and smart computer players, real-time physics dice rolls, and smooth token path animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
